@@ -1,0 +1,55 @@
+.App {
+  text-align: center;
+  font-family: 'Roboto';
+}
+
+.main-heading {
+  color: rgb(35, 33, 206);
+}
+
+.registration-form,
+.start-button,
+.game,
+.box {
+  margin: 20px auto;
+  padding: 10px;
+  border: 2px solid #000;
+  text-align: center;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  cursor: pointer;
+}
+
+.green {
+  background-color: green;
+}
+
+.green-color {
+  color: green;
+}
+.win-text {
+  color: green;
+}
+.red-color {
+  color: red;
+}
+
+.red {
+  background-color: red;
+}
+
+.game-over {
+  background-color: yellow;
+}
+.sad-Image{
+  height: 20px;
+}
+.result {
+  font-weight: bold;
+}
+.heading {
+  font-family: 'Roboto';
+}
