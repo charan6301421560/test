@@ -1,11 +1,13 @@
 .registration-form {
-  background-color: #f0f0f0;
+  background: linear-gradient(to bottom right, yellow, green);
   padding: 20px;
   border-radius: 5px;
   width: 300px;
   margin: 0 auto;
-  font-family: 'Roboto';
+  font-family: 'sans-serif';
+  border: 1px solid rgb(255, 0, 0); /* Replace with your desired RGB color values */
 }
+
 
 .registration-form h2 {
   font-size: 1.5rem;

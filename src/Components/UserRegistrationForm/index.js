@@ -55,7 +55,7 @@ const UserRegistrationForm = ({ onStartGame }) => {
 
   return (
     <div className="registration-form left-aligned"> {/* Added left-aligned class */}
-      <h2>User Registration</h2>
+      <h2>Registration</h2>
       
       <div className="form">
         <div className="form-group">
